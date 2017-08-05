@@ -1,4 +1,4 @@
-/*EASy Controllino Ver.0.1
+/*EASy Controllino Ver.0.1.1
    - Assegna MAC Address e Attiva DHCP
    - Ottiene Epoch Timestamp da Server NTP
    - Aggiorna variabile epoch ogni secondo
