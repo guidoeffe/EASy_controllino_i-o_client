@@ -87,7 +87,7 @@ unsigned long latentRunStop = 100; // Setta l'intervallo di tempo (millisecondi)
 
 
 // variabili per connessione al server
-RestClient client = RestClient("easymes.easysolutions.services");
+RestClient client = RestClient("easy.server");
 String response;
 
 // costruzione url
