@@ -21,7 +21,7 @@
 /*COLLEGAMENTI
  * Collegare segnale RUN / STOP su A0 (RUN: segnale continuo su HIGH)
  * Collegare segnale PEZZI BUONI su IN0 (Interrupt 0 Segnale da LOW a HIGH)
- * Collegare segnale PEZZI BUONI su IN1 (Interrupt 1 Segnale da LOW a HIGH)
+ * Collegare segnale PEZZI SCARTI su IN1 (Interrupt 1 Segnale da LOW a HIGH)
  * Collegare RFID Reader Standard WIEGAND DATA 0 (Verde) DATA 1 (Bianco) al connettore pin in corrispondenza D0 e D1
  */
 
