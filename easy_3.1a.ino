@@ -91,8 +91,8 @@ unsigned long latentRunStop = 100; // Setta l'intervallo di tempo (millisecondi)
 
 
 // variabili per connessione al server
-String easyServer = "demo.easymes.net"; //inserire lo stesso dominio in tutt'e due le variabili
-RestClient client = RestClient("demo.easymes.net");
+String easyServer = "easyserver"; //inserire lo stesso dominio in tutt'e due le variabili
+RestClient client = RestClient("easyserver");
 String response;
 
 // costruzione url
