@@ -1,7 +1,7 @@
 // Aggiornare sempre il numero di versione software
-String txtSwVersion = "3.1";
+String txtSwVersion = "3.1a";
 
-/*EASy Controllino Ver. 3.1
+/*EASy Controllino Ver. 3.1a
    - Assegna MAC Address e Attiva DHCP
    - Ottiene Epoch Timestamp da Server NTP
    - Aggiorna variabile epoch ogni secondo
